@@ -12,7 +12,7 @@ default:
       role: TRANSFORMER_DEV
       database: DEV
       warehouse: TRANSFORMING
-      schema: dbt_rgonzalez
+      schema: PUBLIC
       threads: 2
       client_session_keep_alive: False
 
