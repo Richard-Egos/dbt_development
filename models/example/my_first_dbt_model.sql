@@ -7,7 +7,7 @@
     Try changing "table" to "view" below
 */
 
-use warehouse TRANSFORMING;
+--use warehouse TRANSFORMING;
 
 {{ config(materialized='table') }}
 
